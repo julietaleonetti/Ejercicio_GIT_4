@@ -2,4 +2,9 @@ Huevos
 Harina
 Aceite
 Vinagre
+Leche
+Pan
+Lechuga
+Tomate
+Cebolla
 
